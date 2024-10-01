@@ -1,5 +1,5 @@
 # CRM_analytics_EXCEL
-
+## FIRST SCOPE
 Data consist of 581.587 rows and 8 columns which are Invoice,StockCode,Description,Quantity,InvoiceDate,Price,CustomerID,Country.
 
 ![image](https://github.com/user-attachments/assets/f8101f7e-4a90-450b-bf8a-3cff6987898e)
