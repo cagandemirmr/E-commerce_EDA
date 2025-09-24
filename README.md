@@ -22,3 +22,17 @@ Data consist of 581.587 rows and 8 columns which are Invoice,StockCode,Descripti
 <img width="1213" height="499" alt="image" src="https://github.com/user-attachments/assets/f81f59c3-a8d4-4aa2-8de4-d7b5e52b47ed" />
 
 - Outlier analysis by finding Quarters and define upper and lower limits.
+
+<img width="527" height="247" alt="image" src="https://github.com/user-attachments/assets/22787182-e625-4b27-a344-497b9f2d7bde" />
+
+- When i investigate deeeply based on customer data  i found that yearly churning rate is %58 percent and yearly
+  
+<img width="1402" height="249" alt="image" src="https://github.com/user-attachments/assets/57fd90fa-30dd-48fb-9382-a8621dbfb0ed" />
+
+- Based on Funel Analysis, i calculate CAC.
+
+<img width="494" height="200" alt="image" src="https://github.com/user-attachments/assets/034291c0-02f9-4439-a69e-a0489608100e" />
+
+- I take ratio between LTV and CAC and it indicates that ratio is feasible.
+
+
