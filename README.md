@@ -14,3 +14,11 @@ Data consist of 581.587 rows and 8 columns which are Invoice,StockCode,Descripti
 ![image](https://github.com/user-attachments/assets/45843885-45db-4af6-b9c6-951e93c12688)
 
 -I created the most sales prouct by using INDIS,MATCH functions.
+
+<img width="1343" height="291" alt="image" src="https://github.com/user-attachments/assets/10b43c2e-e40d-4706-8d01-9415a2ab4907" />
+
+- I had sales data of products so i started to define correlation between ad channels and sales, missing datas, average, median and standart devation of sales product.
+
+<img width="1213" height="499" alt="image" src="https://github.com/user-attachments/assets/f81f59c3-a8d4-4aa2-8de4-d7b5e52b47ed" />
+
+- Outlier analysis by finding Quarters and define upper and lower limits.
