@@ -35,4 +35,9 @@ Data consist of 581.587 rows and 8 columns which are Invoice,StockCode,Descripti
 
 - I take ratio between LTV and CAC and it indicates that ratio is feasible.
 
+# Advertisement Analysis
+
+<img width="1215" height="598" alt="image" src="https://github.com/user-attachments/assets/3b5d3eae-8328-4975-9470-ca2c09d5b93e" />
+
+-According to sales we get from social media channels i make regression analysis. According to this analysis i defined coefficent that defines advertisement budget.
 
